@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A certaine and true relation of a great and glorious victory obtained by the Protestant party in Ireland, under the conduct of the Lord Inchequid, Sir Iohn Paulet and others. Against Rori Mac-Guire in the assistance of the Munster Rebels, and the O Carty, and other of the Irish, to the great advancement of the Protestant cause in that Kingdome, and debiliting the rebels forces: they having lost in the said battell at least foure thousand foot and horse, and besides six or seven hundred prisoners. This conflict and victory hapning neare Bandon Bridge in the county of Korke, the 23 of November. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78457</idno>
+            <idno type="STC">Wing C1686</idno>
+            <idno type="STC">Thomason E128_29</idno>
+            <idno type="STC">ESTC R1458</idno>
+            <idno type="EEBO-CITATION">99859693</idno>
+            <idno type="PROQUEST">99859693</idno>
+            <idno type="VID">156254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156254)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A certaine and true relation of a great and glorious victory obtained by the Protestant party in Ireland, under the conduct of the Lord Inchequid, Sir Iohn Paulet and others. Against Rori Mac-Guire in the assistance of the Munster Rebels, and the O Carty, and other of the Irish, to the great advancement of the Protestant cause in that Kingdome, and debiliting the rebels forces: they having lost in the said battell at least foure thousand foot and horse, and besides six or seven hundred prisoners. This conflict and victory hapning neare Bandon Bridge in the county of Korke, the 23 of November. 1642.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Iones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Maguire, Rory, 1618 or 19-1648 or 9 --  Early works to 1800.</term>
+               <term>Winchester, John Paulet, --  Earl of, 1598-1675 --  Early works to 1800.</term>
+               <term>Cork  (Ireland : County) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156254:1" rendition="simple:additions"/>
+            <p>A Certaine and true Relation of a great and glorious victory obtai<g ref="char:EOLhyphen"/>ned by the Proteſtant Party in IRELAND, Vnder the Conduct of the Lord <hi>Inchequid,</hi> Sir <hi>Iohn Paulet</hi> and others.</p>
+            <p>Againſt <hi>Rori Mac-Guire</hi> in the aſsiſtance of the Munſter Rebels, and the <hi>O Carty,</hi> and other of the Iriſh, to the great advancement of the Proteſtant Cauſe in that Kingdome, and debiliting the Rebels Forces: They having loſt in the ſaid battell at leaſt foure thouſand Foot and Horſe, beſides ſix or ſeven hundred priſoners.</p>
+            <p>This Conflict and victory hapning neare <hi>Bandon Bridge</hi> in the County of <hi>Korke,</hi> the 23 of <hi>November.</hi> 1642.</p>
+            <p>
+               <add>novemb: 29.</add> LONDON, Printed for <hi>Nicholas Iones.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156254:2"/>
+            <pb n="3" facs="tcp:156254:2"/>
+            <head>Comfortable Newes out of IRELAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He wofull miſeries which have too long afflicted the pleaſant and plente<g ref="char:EOLhyphen"/>ous Kingdome of Ireland, have been a long time a Theame for diſcourſe thorowout Chriſtendome, which ha<g ref="char:EOLhyphen"/>ving been neglected, ſince the preſent diſtractions in England, how lamentable has beene the face of all things in the ſaid wretched Ireland; e<g ref="char:EOLhyphen"/>very place abounding with fire, famine, ſword, and all the ruines incident to mortality; though, thanks be to the Divine mercy, we have lately ſome better hopes that we ſhall at laſt reſpire from theſe cala<g ref="char:EOLhyphen"/>mities, by reaſon God has been pleaſed, when this Kingdome, eſpecially Munſter, the beſt peopled Pro<g ref="char:EOLhyphen"/>vince of that Iland, and moſt faithfull of the Engliſh government, was moſt aflicted and oppreſſed by the rebellious Mutineers, till lately they exalted with the conſtant ſucceſſe of their proceedings had drawn out of the North, where the malice of the rebellion is prety well ſpent into theſe Weſtern parts. <hi>Rory Mac Guir,</hi> brother to the Lord of <hi>Inniskillin,</hi> out of moſt deſperate inhumane and bloody of all the brood of Traitors, wherewith ſome two thouſand, or therea<g ref="char:EOLhyphen"/>bout
+<pb n="4" facs="tcp:156254:3"/>of his followers, well experienced in miſchiefes and murders, by coaſting the Countrey, he arriv'd about the ſecond of <hi>November</hi> laſt paſt, in the County of Korke, where he immediately had the welcome given him by all the Rebels in thoſe parts, being at leaſt eight thouſand perſons of the Lord <hi>Muskrey</hi> his Forces, with thoſe of the families of the <hi>O Caitys, O Connors,</hi> and other of the Iriſh Septs or Tribes, which they preſerve with as much integrity and care as the ancient Jewes did theirs: the Munſter forces being under the command of one Sir <hi>Turlogh Mac Henry O Carty,</hi> and <hi>Patricke Mac Philim O Connor,</hi> the chiefe of thoſe two avaritious families, men that had both ſerv'd abroad in Flanders in <hi>Tyrons</hi> Regiment, and therefore better experienced then ordinary in War<g ref="char:EOLhyphen"/>like rudiments. Their forces therefore conjoyn'd in one body with thoſe of <hi>Kory Mac Guires,</hi> they made full ten thouſand, with which forces, eſteeming them<g ref="char:EOLhyphen"/>ſelves invincible; on they marched, thundring through the lands of the Engliſh, burning up Villages, raviſh<g ref="char:EOLhyphen"/>ing Wives and Virgins, killing old men and children, nay ſucking Infants were not protected by their inno<g ref="char:EOLhyphen"/>cence from their violence; all was fiſh that came to net, their quarrell was nationall, nor would they ſpare for any reſpects, any that had the leaſt affinity with the Engliſh in this bloody hoſtile manner they proceeded, till they were arriv'd neer Bandon Bridge, a handſome neat Colony of the Engliſh in the Coun<g ref="char:EOLhyphen"/>ty of Korke, which they intended with avaritious hopes to plunder, and then to ſet fire off, and there<g ref="char:EOLhyphen"/>fore through the woods with as much ſecrecy as poſ<g ref="char:EOLhyphen"/>ſible, they drew towards it, knowing that if they were
+<pb n="5" facs="tcp:156254:3"/>diſcovered, the conſequence of that good town would ingage all the Engliſh forces thereabouts, which in<g ref="char:EOLhyphen"/>deed was not very many, being ſome thouſand of the veterane Munſter Bands, under the command of Sir <hi>Iohn Paulet,</hi> a Gentleman of good extract and undaun<g ref="char:EOLhyphen"/>ted courage, to whom, the fourth of <hi>November,</hi> the day before the fatall ſtroake was ſtrucken, joyn'd the yong Lord <hi>Inchequid</hi> a gallant Gentleman, faithfull to the Engliſh Crowne, of valiant reſolution, and of good and fortunate ſucceſſe in his Military proceedings; with ſome three thouſand foot of his owne and my Lord of <hi>Ormunds,</hi> and five hundred horſe, being the beſt part of the ſtrength of the Cavalry in that Pro<g ref="char:EOLhyphen"/>vince; having notice by their Spies, of the ſilent march of the Rebels, they inſtantly conceited their intenti<g ref="char:EOLhyphen"/>ons, and ſo reſolved, nothing terrified with the report of their numbers, to ſet downe on a Plaine between thoſe woods (where the Rebels were) and Bandon, and there if they would come on to give them b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttell with as little noyfe as was poſſible; therefore they intren<g ref="char:EOLhyphen"/>ched themſelves, caſt up in their Front ſome ſlight breſtworkes, and planting conveniently among ſome very high Furres or Brakes their Ordnance, which conſiſted of ſix indifferent good field Peeces, and ſome three or foure Sakers. Sir <hi>Turlogh Mac Henry O Carty</hi> with the Van of their forces, were advanced out of the wood into the Plaine, had notice from his Vaunt Cur<g ref="char:EOLhyphen"/>rers, that there were ſome Engliſh forces neer at hand, but as they conjectured no very conſiderable number, being at moſt not above three thouſand, ſome horſe<g ref="char:EOLhyphen"/>men, with Sir <hi>Iohn Paulets</hi> Regiment, lying ſo cloſe among the Furres, that they were not diſcernable,
+<pb n="6" facs="tcp:156254:4"/>the whole Army of the Engliſh part, being not five thouſand men; but in reſolve and herformance double the number.</p>
+            <p>S<hi rend="sup">r</hi> 
+               <hi>Turlogh</hi> having given notice to <hi>Rori</hi> and <hi>O Conner</hi> of theſe tydings, very joyfull they ſeemed and aſſured of victory, beleeving the ſecure Engliſh had no know<g ref="char:EOLhyphen"/>ledge of their arrivall, and <hi>Rori</hi> according to the vio<g ref="char:EOLhyphen"/>lence of the Rebels diſpoſition, would needs have the honour of the on-ſet, with ſome two thouſand Horſe; therefore he galloped in towards the Engliſh quar<g ref="char:EOLhyphen"/>ters, commanding and deſiring <hi>Turlegh</hi> and <hi>O Conner</hi> with their Foot Forces, to wheele about under the co<g ref="char:EOLhyphen"/>vert of thoſe high Firs, and when he was engaged in combate with their Front, which they would make as ſtrong as poſſible againſt his furious charge of horſe, they ſhould then fall pell mell upon their quarters, and ſo incloſe them and cut them off every Mothers ſon. My Lord of Incequin in the meane perceiving <hi>Roris</hi> approaches had plac'd his horſmen in their op<g ref="char:EOLhyphen"/>poſition, leaving their Troops with a Muskettier to every horſe; who as ſoone as <hi>Rori</hi> approached within diſtance, let fly their fatall bullets, which gall'd him ſhrewdly in the head of his Troops; they charging and diſcharging as faſt as poſſibly they could, till <hi>Rori</hi> was mingled with his horſmen among others, &amp; after the diſcharging their Petronels and Carabines either at other, wherein fell at leaſt two hundred of <hi>Rori's</hi> horſe they came to handiblowes; Wherein our able men at Armes did gallant execution on them with their ſwords. The Iriſh Skeins not cutting with that vigor and edge that did our Engliſh Back-ſwords, our Mus<g ref="char:EOLhyphen"/>kettiers then recharg'd, ſending another volly of lead
+<pb n="7" facs="tcp:156254:4"/>into the Iriſh mens boſomes and Foot Companies, now comming into the reliefe of our horſe, gave <hi>Mac-Guire</hi> an entertainment, which made his horſemen reele out of their order; but he bringing freſh men on though he had at leaſt 800 of his horſemen ſlaine, the poore garones running up and downe the field with<g ref="char:EOLhyphen"/>out riders. Our men had much adoe to reſiſt their fu<g ref="char:EOLhyphen"/>ry, though my Lord Inchequin performed all the offi<g ref="char:EOLhyphen"/>ces of a reſolute man and a wiſe Commander: When behold on the ſudden Sir <hi>Turlegh O Conner</hi> and the reſt broke in on Sir <hi>Iohn Pawlets</hi> quarter, where was the Ordnance and a thouſand more of reſolute ſouldiers, who thinking to have ſurpris'd our men were ſur<g ref="char:EOLhyphen"/>priſed themſelves; the Field-peeces charg'd with murdering ſhot, as Muskets and Piſtoll bullets, pelli<g ref="char:EOLhyphen"/>ting them downe by heapes, and our excellent fire<g ref="char:EOLhyphen"/>men ſafe among the Firs, ſpending not one ſhot in vaine; yet the multitude of their numbers made them ſcarce ſenſible of their loſſe till valiant Sir Sir <hi>Iohn Paulet,</hi> Captaine <hi>Robert Sandys</hi> with troops charged them through while the Ord<g ref="char:EOLhyphen"/>nance againe charg'd, plaid hotly upon raking them thorow and thorow their flanks, that their ſlaughter with the fall of <hi>Patrick Macphelme O Conner,</hi> did ſo diſhearten the Iriſh, that they turn'd their backs, and in ſpight of S<hi rend="sup">r.</hi> 
+               <hi>Turloghs</hi> perſwaſions with nimble heeles, ſought to recover the woods <hi>Rori Mac-Guire,</hi> between whom and my Lord of <hi>Inchequid,</hi> the fight ſtood in equall termes; the <hi>Iriſh</hi> rather defending themſelves with offending us, perceiving the coward<g ref="char:EOLhyphen"/>ly flight of his foot, giving them to a thouſand divels, turn'd his horſe, and fled alſo toward the woods, then
+<pb n="8" facs="tcp:156254:5"/>they were in apparent rout, our men doing that, and plaine execution upon both their horſe and foot, beating them downe with the but end of their Muſ<g ref="char:EOLhyphen"/>quets, and ſlaughtering them as they deſerv'd, with<g ref="char:EOLhyphen"/>out all mercy, eſpecially the <hi>Munſter</hi> Rebels, of Sir <hi>Turloghs</hi> and <hi>O-Connors</hi> Regiment went to racke, ſcarcely a tenth man eſcaping into the woods. There fell in all at leaſt three thouſand foot, and ſome thou<g ref="char:EOLhyphen"/>ſand horſe, being the vere flower of the Rebels. <hi>O-Connor,</hi> and two or three of the <hi>Cartys</hi> being the chief. Priſoners there were taken to the number of ſeven hundred, or thereabouts, of which of moſt note, <hi>Brian Mac-Henry, O Carty,</hi> Sir <hi>Turloghs</hi> eldeſt ſonne, and halfe a dozen Friers, with one of their Biſhops, whom are in ſafe cuſtody.</p>
+            <p>In <hi>Bandon</hi> wee got good ſtore of armes and pretty number of ſerviceable Garroones: <hi>Rori Mac<g ref="char:EOLhyphen"/>Guire,</hi> with Maſter <hi>Turlogh</hi> and the reſt of their forces, fled by their knowne by-wayes through the woods are reported to be retir'd into <hi>Vlſter.</hi> Of our ſide there were loſt only 200. men, and never a one of marke or quality, but a Lievtenant to Captaine <hi>San<g ref="char:EOLhyphen"/>dys;</hi> ſo that we may perceive how eaſie it were to quet the forces of theſe pertinacious and bloody re<g ref="char:EOLhyphen"/>bels, were there an unity in <hi>England</hi> between the King and the Parliament, which God in his mercy ſend ſpeedily to be effected, that the afflictons of us here may be conſidered: And we have afforded ſome ſpeedy and competent ſuccours of men, money, and horſes, with which wee ſhould eaſily, not onely defend and ſecure our ſelves, but to reduce the whole kingdome to it's antient obedience to the Engliſh Crowne.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
